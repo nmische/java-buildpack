@@ -24,7 +24,7 @@
           scheme="https" 
           secure="true" 
           SSLEnabled="true" 
-          keystoreFile="keystore" 
+          keystoreFile="conf/keystore" 
           keystorePass="changeit" 
           clientAuth="false" 
           keyAlias="tomcat" 
